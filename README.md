@@ -15,6 +15,7 @@ FiveM ESX - Venekauppa - Boat Store - Boat Shop
 ✅ Ominaisuudet / Features
 - Veneen osto / Buying a boat
 - Veneen säilytys / Boat storage with advancedgarage
+- You need to have esx_advancedgarage to bring boat out of garage
 
 🔧 Lataus & Asennus / Download & Installation
 1. Lataa tiedostot / Download files

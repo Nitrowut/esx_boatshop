@@ -1,4 +1,4 @@
-# esx_boatshop
+# Venekauppa / Boat Shop
 FiveM ESX - Venekauppa - Boat Store - Boat Shop
 
 🛠 Vaatimukset / Requirements
